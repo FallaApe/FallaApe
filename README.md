@@ -3,7 +3,7 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/C-Programming-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
@@ -15,7 +15,7 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
-## 📈 GitHub Stats & Streak
+##  GitHub Stats & Streak
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=radical" width="48%" />
@@ -23,7 +23,7 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
-## 📝 Top Languages
+##  Top Languages
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="48%" />
 </p>
@@ -31,16 +31,16 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 ---
 
 ## About Me
-- ☕ Coffee lover & night coder  
-- 🎨 Love art, 3D modeling & animation  
+-  Coffee lover & night coder  
+-  Love art, 3D modeling & animation  
 - 🐱 Cat person  
-- 🚀 Doing 100 Days of Code challenge
+-  Doing 100 Days of Code challenge
 
 ---
 
 <!-- GIF at the bottom -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="350"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
