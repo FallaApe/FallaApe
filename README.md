@@ -1,11 +1,3 @@
-<!-- GIF at the top -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
-</p>
-
-<!-- Your Name -->
-<h1 align="center">Shivam</h1>
-
 ## 👋 Hi there!
 I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecurity, and UI/UX design.
 
@@ -28,13 +20,19 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
-## 🎯 Fun Facts
-- ☕ Coffee lover & night coder  
-- 🎨 Love art, 3D modeling & animation  
+## About me
+-  Coffee lover & night coder  
+-  Love art, 3D modeling & animation  
 - 🐱 Cat person  
-- 🚀 Doing 100 Days of Code challenge
+-  Doing 100 Days of Code challenge
 
 ---
 
-## 💬 Quote
-*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+<!-- GIF at the bottom -->
+<p align="center">
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif)" width="250"/>
+</p>
+
+<p align="center">
+  <em></em>
+</p>
