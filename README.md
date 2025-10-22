@@ -8,6 +8,9 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
   <img src="https://img.shields.io/badge/C-Programming-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
   <img src="https://img.shields.io/badge/Git-black" />
+  <a href="https://open.spotify.com/user/31ju6epscx7dqkzcisa6bqtnqh4q">
+    <img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify" />
+  </a>
 </p>
 
 ---
@@ -33,16 +36,6 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 -  Love art, 3D modeling & animation  
 - 🐱 Cat person  
 -  Doing 100 Days of Code challenge
-
----
-
-## 🎵 Currently Listening
-<p align="center">
-  <a href="https://open.spotify.com/user/31ju6epscx7dqkzcisa6bqtnqh4q">
-    <img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify" width="150"/>
-  </a>
-</p>
-
 
 ---
 
