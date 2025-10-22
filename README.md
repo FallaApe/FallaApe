@@ -38,8 +38,11 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ## 🎵 Currently Listening
 <p align="center">
-  ![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ju6epscx7dqkzcisa6bqtnqh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
+  <a href="https://open.spotify.com/user/31ju6epscx7dqkzcisa6bqtnqh4q">
+    <img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify" width="150"/>
+  </a>
 </p>
+
 
 ---
 
