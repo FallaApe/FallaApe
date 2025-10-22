@@ -35,5 +35,5 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 </p>
 
 <p align="center">
-  <em>DEJA VU</em>
+  <em>Praise the Sun</em>
 </p>
