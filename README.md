@@ -20,7 +20,7 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
-## 📝 Top Languages
+## 📝 Top Languages & Visitor Count
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="48%" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FallaApe" width="48%" />
@@ -37,11 +37,8 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 ---
 
 ## 🎵 Currently Listening
-
 <p align="center">
-  <a href="https://open.spotify.com/user/31ju6epscx7dqkzcisa6bqtnqh4q">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="50"/>
-  </a>
+  ![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ju6epscx7dqkzcisa6bqtnqh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
 </p>
 
 ---
