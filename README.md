@@ -15,27 +15,26 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Streak
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 📝 Top Languages & Visitor Count
+## 📝 Top Languages
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="48%" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FallaApe" width="48%" />
 </p>
 
 ---
 
 ## About Me
--  Coffee lover & night coder  
--  Love art, 3D modeling & animation  
+- ☕ Coffee lover & night coder  
+- 🎨 Love art, 3D modeling & animation  
 - 🐱 Cat person  
--  Doing 100 Days of Code challenge
+- 🚀 Doing 100 Days of Code challenge
 
 ---
 
