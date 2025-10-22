@@ -37,8 +37,9 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 ---
 
 ## 🎵 Currently Listening
+
 <p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/)
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ju6epscx7dqkzcisa6bqtnqh4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" width="350"/>
 </p>
 
 ---
