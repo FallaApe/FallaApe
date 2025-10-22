@@ -8,6 +8,4 @@
 ## 📈 GitHub Stats
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=radical)
 
-![100 Days of Code](https://img.shields.io/badge/100DaysOfCode-Finished-brightgreen)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShivamSharma123)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamSharma123)
