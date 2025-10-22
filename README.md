@@ -1,3 +1,4 @@
+
 ## 👋 Hi there!
 I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecurity, and UI/UX design.
 
@@ -30,9 +31,9 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 <!-- GIF at the bottom -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif)" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-  <em></em>
+  <em>DEJA VU</em>
 </p>
