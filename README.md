@@ -29,9 +29,11 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balram-1&theme=radical&no-frame=true&no-bg=false&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Balram-1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=5" />
 </p>
+
 
 
 
