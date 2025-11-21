@@ -30,6 +30,16 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
+## 🐍 Contribution Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## About Me
 -  Coffee lover & night coder  
 -  Love art, 3D modeling & animation  
