@@ -23,6 +23,11 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
+## ⌛ Coding Activity
+
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/@your-wakatime-user-id)
+
+
 ##  Top Languages
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="48%" />
