@@ -27,16 +27,7 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Enthusiast;Building+Cool+Tools+🚀)](https://git.io/typing-svg)
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balram-1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=5" />
-</p>
-
-
-
-
+---
 
 ##  Top Languages
 <p float="left">
