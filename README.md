@@ -33,6 +33,8 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="48%" />
 </p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FallaApe&theme=react-dark)
+
 
 ---
 
