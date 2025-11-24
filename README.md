@@ -52,11 +52,6 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ---
 
-## 🧠 GitHub Achievements  
-![Achievements](https://github-profile-trophy.vercel.app/?username=FallaApe&theme=onestar&title=Commits,Repositories,PullRequest,Issues,Followers)
-
----
-
 ## ⚙️ Tools & Software I Use  
 <p>
   <img src="https://img.shields.io/badge/VSCode-IDE-blue?logo=visualstudiocode" />
