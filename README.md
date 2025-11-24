@@ -5,6 +5,8 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ## 🛠️ Technologies & Tools  
 <p>
+  <img src="https://img.shields.io/badge/VSCode-IDE-blue?logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Figma-Design-orange?logo=figma" />
   <img src="https://img.shields.io/badge/C-Programming-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
   <img src="https://img.shields.io/badge/Git-black" />
@@ -49,16 +51,6 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ## 🏆 GitHub Trophies  
 ![trophy](https://github-profile-trophy.vercel.app/?username=FallaApe&theme=radical&no-bg=true&no-frame=true&margin-w=15)
-
----
-
-## ⚙️ Tools & Software I Use  
-<p>
-  <img src="https://img.shields.io/badge/VSCode-IDE-blue?logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Figma-Design-orange?logo=figma" />
-  <img src="https://img.shields.io/badge/Brave-Browser-red?logo=brave" />
-  <img src="https://img.shields.io/badge/Ubuntu-linux-grey?logo=linux" />
-</p>
 
 ---
 
