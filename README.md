@@ -57,7 +57,7 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
   <img src="https://img.shields.io/badge/VSCode-IDE-blue?logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Figma-Design-orange?logo=figma" />
   <img src="https://img.shields.io/badge/Brave-Browser-red?logo=brave" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-Cybersecurity-grey?logo=linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-linux-grey?logo=linux" />
 </p>
 
 ---
