@@ -1,20 +1,21 @@
-# Hi, I'm Shivam Sharma
+# Shivam Sharma
 
-Python programmer focused on problem solving and exploring cybersecurity fundamentals.
+I focus on building strong fundamentals in Python by writing small programs and understanding how each part works.
+Alongside this, I am exploring cybersecurity concepts by learning how systems behave and where they break.
 
 ---
 
-## Tech Stack
+## Tools I Work With
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Overview
+## GitHub Snapshot
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="49%" />
@@ -22,10 +23,10 @@ Python programmer focused on problem solving and exploring cybersecurity fundame
 
 ---
 
-## Currently Learning
-- Advanced Python  
-- Cybersecurity Basics  
-- Git and GitHub workflow  
+## How I Learn
+I prefer learning by doing rather than following tutorials end to end.
+I write code, break it, fix it, and repeat until the behavior makes sense.
+Consistency matters more to me than speed.
 
 ---
 
