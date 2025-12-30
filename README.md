@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=Shivam%20Sharma&fontSize=30&fontColor=16161e"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header"/>
 </p>
 
 # Shivam Sharma
@@ -18,8 +18,8 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 ## GitHub Snapshot
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=react&hide_title=true&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=react&hide_border=true" width="45%" />
 </p>
 
 ## Contact
@@ -41,5 +41,5 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer"/>
 </p>
