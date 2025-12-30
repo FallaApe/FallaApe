@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=120&section=header"/>
+</p>
+
 
 
 # Shivam Sharma
