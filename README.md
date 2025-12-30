@@ -17,9 +17,8 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 ## GitHub Snapshot
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=react&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=react&hide_border=true&count_private=true" width="500" />
 </p>
 
 ## Contact
