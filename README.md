@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=SHIVAM%20SHARMA&fontColor=38bdf8&fontSize=40&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=150&section=header&text=Shivam%20Sharma&fontSize=40&fontColor=7aa2f7&animation=twinkling"/>
 </p>
 
 # Shivam Sharma
@@ -15,14 +15,17 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
-
 ## GitHub Snapshot
+
+<!-- NEW WORKING STAT (replaces broken one) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FallaApe&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+<!-- Profile Summary Card (your old one, kept the same) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=tokyonight" width="90%" />
 </p>
-
----
 
 ## Contact
 <p>
@@ -43,5 +46,5 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=120&section=footer"/>
 </p>
