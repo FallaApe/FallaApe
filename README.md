@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=150&section=header&text=Shivam%20Sharma&fontSize=40&fontColor=7aa2f7&animation=twinkling"/>
-</p>
+
 
 # Shivam Sharma
 
@@ -23,7 +21,7 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 <!-- Added second simple stat -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=tokyonight" width="60%" />
 </p>
 
 ## Contact
