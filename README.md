@@ -15,9 +15,11 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-## GitHub Snapshot (Simple)
+## GitHub Snapshot
+
+<!-- SIMPLE STAT (this one always works) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FallaApe&theme=tokyonight" width="70%" />
 </p>
 
 ## Contact
@@ -30,5 +32,15 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   </a>
 </p>
 
+<!-- YOUR GIF (restored) -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="520" />
+</p>
+
+<p align="center">
+  <em>Praise the Sun</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=120&section=footer"/>
+</p>
