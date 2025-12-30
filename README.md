@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=150&section=header&text=Shivam%20Sharma&fontSize=40&fontColor=7aa2f7&animation=twinkling"/>
 </p>
 
-# Shivam Sharma
-
 I focus on building strong fundamentals in Python by writing small programs and understanding how each part works.
 Alongside this, I am exploring cybersecurity concepts by learning how systems behave and where they break.
 
@@ -17,9 +15,13 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 ## GitHub Snapshot
 
-<!-- SIMPLE STAT (this one always works) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FallaApe&theme=tokyonight" width="70%" />
+</p>
+
+<!-- Added second simple stat -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ## Contact
@@ -32,7 +34,6 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   </a>
 </p>
 
-<!-- YOUR GIF (restored) -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="520" />
 </p>
