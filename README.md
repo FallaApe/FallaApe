@@ -20,11 +20,6 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=tokyonight" width="45%" />
 </p>
 
-<!-- Added second simple stat -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=tokyonight" width="50%" />
-</p>
-
 ## Contact
 <p>
   <a href="mailto:sharma.shivam12007@gmail.com">
