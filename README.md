@@ -5,25 +5,25 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 ## Tools
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_language-283593?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ## GitHub Snapshot
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FallaApe&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 ## Contact
 <p>
   <a href="mailto:sharma.shivam12007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sharma.shivam12007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shivam-sharma-272233377/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
