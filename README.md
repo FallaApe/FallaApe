@@ -6,15 +6,32 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 ## Tools
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_language-283593?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ## GitHub Snapshot
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FallaApe&theme=tokyonight&hide_border=false" width="95%" />
+</p>
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=tokyonight" width="95%" />
+</p>
+
+<!-- Most Used Languages & Commits per Day -->
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FallaApe&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FallaApe&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FallaApe&theme=tokyonight&utcOffset=5.5" width="49%" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FallaApe&theme=tokyo-night&hide_border=false" width="95%" />
 </p>
 
 ## Contact
