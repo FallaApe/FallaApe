@@ -13,9 +13,9 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 ## GitHub Snapshot
 
-<!-- Streak Stats -->
+<!-- Streak Stats (working mirror) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FallaApe&theme=tokyonight&hide_border=false" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=tokyonight&hide_border=false" width="90%" />
 </p>
 
 <!-- Profile Summary Card -->
