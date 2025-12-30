@@ -1,55 +1,42 @@
+# Shivam Sharma
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0A0F24&text=Shivam%20Sharma&fontSize=45&fontColor=70A5FD&animation=fadeIn&fontAlignY=38" />
-</p>
+I focus on building strong fundamentals in Python by writing small programs and understanding how each part works.
+Alongside this, I am exploring cybersecurity concepts by learning how systems behave and where they break.
 
-# Hi 👋  
-I’m building fundamentals in Python, exploring cybersecurity, and learning how systems behave, break, and can be secured.
-
----
-
-## ⚡ Tools I Use (Neon Glow)
+## Tools
 <p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=A020F0" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
+## GitHub Snapshot
 
-## ⚡ Learning Now
-- Python (logic, functions, recursion, scripts)  
-- Linux basics & terminal workflow  
-- Cybersecurity fundamentals (recon, enumeration, system behavior)  
-- Networking essentials  
-- Git & version control  
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FallaApe&theme=tokyonight&hide_border=false" width="90%" />
+</p>
 
----
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=tokyonight" width="90%" />
+</p>
 
-## 🧩 Tokyo Night Custom Cards  
-### These always load (no APIs)
+## Contact
+<p>
+  <a href="mailto:sharma.shivam12007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-sharma-272233377/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-70A5FD?style=for-the-badge&logo=power&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Cybersecurity-1E1E2E?style=for-the-badge&logo=code&logoColor=70A5FD" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="520" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Break%20%7C%20Fix-7F5AF0?style=for-the-badge&logo=brain&logoColor=white" />
+  <em>Praise the Sun</em>
 </p>
-
----
-
-## 📟 Terminal Window (Hacker Theme)
-```bash
-> whoami
-Shivam Sharma
-
-> cat goals.txt
-- Build strong fundamentals
-- Learn cybersecurity
-- Understand systems deeply
-
-> run motivation.exe
-Executing...  ████████ 100%
