@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=SHIVAM%20SHARMA&fontColor=38bdf8&fontSize=40&animation=twinkling"/>
+</p>
+
 # Shivam Sharma
 
 I focus on building strong fundamentals in Python by writing small programs and understanding how each part works.
@@ -11,17 +15,14 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
+---
+
 ## GitHub Snapshot
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FallaApe&theme=tokyonight&hide_border=false" width="90%" />
-</p>
-
-<!-- Profile Summary Card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=tokyonight" width="90%" />
 </p>
+
+---
 
 ## Contact
 <p>
@@ -39,4 +40,8 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 <p align="center">
   <em>Praise the Sun</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </p>
