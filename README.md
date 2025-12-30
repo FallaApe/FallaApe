@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16161e&height=150&section=header&text=Shivam%20Sharma&fontSize=40&fontColor=7aa2f7&animation=twinkling"/>
 </p>
 
+# Shivam Sharma
+
 I focus on building strong fundamentals in Python by writing small programs and understanding how each part works.
 Alongside this, I am exploring cybersecurity concepts by learning how systems behave and where they break.
 
