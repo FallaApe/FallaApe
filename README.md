@@ -15,8 +15,9 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FallaApe&theme=tokyonight" width="50%" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FallaApe&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=tokyonight" width="45%" />
 </p>
 
 <!-- Added second simple stat -->
