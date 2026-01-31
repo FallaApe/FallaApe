@@ -17,8 +17,9 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 
 ## GitHub Snapshot
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FallaApe&theme=flat&no-frame=true&column=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=dark&hide_border=true" />
 </p>
+
 
 
 ## Contact
