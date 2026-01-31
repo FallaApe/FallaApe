@@ -16,10 +16,10 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 </p>
 
 ## GitHub Snapshot
-<p>
-  <img src="https://img.shields.io/github/followers/FallaApe?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/FallaApe?label=Total%20Stars&style=for-the-badge" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FallaApe&theme=flat&no-frame=true&column=1" />
 </p>
+
 
 ## Contact
 <p>
