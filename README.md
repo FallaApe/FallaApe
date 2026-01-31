@@ -4,7 +4,7 @@
 
 # Shivam Sharma
 
-I focus on building strong fundamentals in Python by writing small programs and understanding how each part works.
+I focus on building strong fundamentals in Python by writing small programs and understanding how each part works.  
 Alongside this, I am exploring cybersecurity concepts by learning how systems behave and where they break.
 
 ## Tools
@@ -18,7 +18,11 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=react&hide_border=true&count_private=true" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FallaApe&theme=react" />
 </p>
 
 ## Contact
