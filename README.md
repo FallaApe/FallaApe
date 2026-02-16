@@ -20,8 +20,6 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=dark&hide_border=true" />
 </p>
 
-
-
 ## Contact
 <p>
   <a href="mailto:sharma.shivam12007@gmail.com">
@@ -29,6 +27,9 @@ Alongside this, I am exploring cybersecurity concepts by learning how systems be
   </a>
   <a href="https://www.linkedin.com/in/shivam-sharma-272233377/">
     <img src="https://img.shields.io/badge/LinkedIn-Shivam_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/make/XQdMLpRhoOU0xg1SniewDF/Portfolio-Webpage-Design" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Figma_Design-7aa2f7?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
 
